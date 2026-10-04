@@ -1,0 +1,5 @@
+[general]
+import = ["~/.config/alacritty/gruvbox-dark.toml"]
+
+[font]
+normal = { family = "BlexMono Nerd Font", style = "Regular" }
